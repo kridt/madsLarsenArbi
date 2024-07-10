@@ -22,7 +22,7 @@ function App() {
     { name: "expekt", odds: { ...startOdds }, money: 600 },
     { name: "cashpoint", odds: { ...startOdds }, money: 500 },
     { name: "spreadex", odds: { ...startOdds }, money: 1000 },
-    { name: "tipwin", odds: { ...startOdds }, money: 4160 },
+    { name: "cambo", odds: { ...startOdds }, money: 2000 },
   ]);
 
   const [results, setResults] = useState(null);
